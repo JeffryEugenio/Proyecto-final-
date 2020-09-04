@@ -1,0 +1,10 @@
+C:\Users\jeffry\Desktop\Uni 9no\Servidores\Proyecto final\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+C:\Users\jeffry\Desktop\Uni 9no\Servidores\Proyecto final\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe
+C:\Users\jeffry\Desktop\Uni 9no\Servidores\Proyecto final\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.pdb
+C:\Users\jeffry\Desktop\Uni 9no\Servidores\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csprojAssemblyReference.cache
+C:\Users\jeffry\Desktop\Uni 9no\Servidores\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Form1.resources
+C:\Users\jeffry\Desktop\Uni 9no\Servidores\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+C:\Users\jeffry\Desktop\Uni 9no\Servidores\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.GenerateResource.cache
+C:\Users\jeffry\Desktop\Uni 9no\Servidores\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\jeffry\Desktop\Uni 9no\Servidores\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.exe
+C:\Users\jeffry\Desktop\Uni 9no\Servidores\Proyecto final\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.pdb
